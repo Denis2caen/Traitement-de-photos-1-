@@ -1,7 +1,2 @@
 dependencies:
-  - numpy
-  - matplotlib
-  - pandas
-  - bokeh
-  - rise
-  - pil
+   - pil
