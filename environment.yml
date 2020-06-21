@@ -1,16 +1,7 @@
-channels:
-  - damianavila82
-  - conda-forge
 dependencies:
   - python
   - numpy
-  - psutil
-  - toolz
   - matplotlib
-  - dill
   - pandas
-  - partd
   - bokeh
-  - dask
-  - pillow
-  - pil
+  - rise
